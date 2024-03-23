@@ -31,7 +31,9 @@ https://pepoyoppy.lofter.com/
 
 ## 因为文件过多，所以一时新更改无法加入，请等一段时间再刷新查看！！！
 
-针对图片如果中国大陆无法访问，请访问如下镜像站(基于Cloudflare Worker):
+如果中国大陆无法访问github.com或github.io域名，请访问如下镜像站(基于Cloudflare Worker):
+
+[Media](https://ppymirror.hhaann.eu.org/mirror)
 
 [Illustration](https://github.hhaann.eu.org/hjm2007/ppymirror/tree/main/Illustration)
 
