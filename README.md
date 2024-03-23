@@ -8,6 +8,8 @@ Media:音乐及其MV
 
 [Manga](https://github.com/hjm2007/ppymirror/tree/main/Manga):漫画
 
+作品名称请打开"PhotoList"文件夹，提供csv和json两种格式作品列表，新手请查看csv文件
+
 如下为曲目列表直链:
 
 [2020曲目](https://hjm2007.github.io/ppymirror/Media/2020list)
