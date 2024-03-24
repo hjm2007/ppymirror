@@ -86,7 +86,7 @@
 ## Video
 
 - [拝啓（短いver）　♪初音ミク.mp4](https://ppymirror.hhaann.eu.org/2022/video/拝啓.mp4)
-- [なんか出てきた　#Shorts.mp4](https://ppymirror.hhaann.eu.org/2022/video/[なんか出てきた.mp4)
+- [なんか出てきた　#Shorts.mp4](https://ppymirror.hhaann.eu.org/2022/video/なんか出てきた.mp4)
 - [ボーマスが延期にならなかった時に出すつもりだった謝罪動画の没　♪ぽよろいど.mp4](https://ppymirror.hhaann.eu.org/2022/video/ボーマスが延期にならなかった時に出すつもりだった謝罪動画の没.mp4)
 - [2022年の曲をまとめたよ＋そこそこな解説.mp4](https://ppymirror.hhaann.eu.org/2022/video/2022年の曲をまとめたよ＋そこそこな解説.mp4)
 - [IPPUN_GPに出すはずだった曲　♪ぽよろいど.mp4](https://ppymirror.hhaann.eu.org/2022/video/IPPUN_GPに出すはずだった曲.mp4)
