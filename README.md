@@ -8,7 +8,6 @@ Media:音乐及其MV
 
 [Manga](https://github.com/hjm2007/ppymirror/tree/main/Manga):漫画
 
-作品名称请打开"PhotoList"文件夹，提供csv和json两种格式作品列表，新手请查看csv文件
 
 如下为曲目列表直链:
 
@@ -27,6 +26,9 @@ https://space.bilibili.com/3461574945671798/dynamic
 https://pepoyoppy.lofter.com/
 
 
+部分作品请进入(需[翻墙](https://docs.winverdev.eu.org))：https://winverdev.blogspot.com/
+
+
 使用前请阅读[二创守则](https://github.com/hjm2007/ppymirror/wiki)
 
 注意：为贯彻二创守则，本仓库不包含FANBOX付费内容！！！！
@@ -35,7 +37,7 @@ https://pepoyoppy.lofter.com/
 
 如果中国大陆无法访问github.com或github.io域名，请访问如下镜像站(基于Cloudflare Worker):
 
-[Media](https://ppymirror.hhaann.eu.org/mirror)
+> 由于已绑定新域名，因此该镜像站可直接访问https://pepoyoppy.winverdev.eu.org/ppymirror/
 
 [Illustration](https://github.hhaann.eu.org/hjm2007/ppymirror/tree/main/Illustration)
 
@@ -47,7 +49,7 @@ https://pepoyoppy.lofter.com/
 
 视频：https://www.youtube.com/playlist?list=PLirTIukOmzhBVh0aygh46EZlZ6jtlLlDm
 
-音乐均使用工具下载
+音乐均使用工具下载，工具会出现歌词不同步，之后我会放出歌词文件。
 
 最后，送给小鬼一句与政治无关的话：
 
