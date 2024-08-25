@@ -19,6 +19,8 @@ Media:音乐及其MV
 
 [2023曲目](https://hjm2007.github.io/ppymirror/Media/2023list)
 
+[2024曲目](https://hjm2007.github.io/ppymirror/Media/2024list)
+
 针对中国特供版(即带有中文水印)请访问如下地址:
 
 https://space.bilibili.com/3461574945671798/dynamic
